@@ -1,4 +1,5 @@
-Iklwa is a React web app made to allow podcasters to deploy their custom app, with an audio player,
+# Iklwa 
+Iklwa (*/îːkxwá/*) is a React web app made to allow podcasters to deploy their custom app, with an audio player,
 directly from the RSS feed, with little or no developer skills required. 
 
 Also, *iklwa* is the zulu name of the *[assegai](https://en.wikipedia.org/wiki/Assegai)*, a pole weapon. 
@@ -13,13 +14,13 @@ The name comes from the sound that was heard when withdrawn from the enemy's bod
 - Search and filter episodes by date, description, title, tags, etc.
 - Announcement section from a custom tag in the podcast description
 
-##Build and run
+## Build and run
 
 This is a standard `create-react-app` project, so clone the repo, `npm run start` to set up a
 development server or `npm run build` to build for production. 
 
-##License
+## License
 This work is provided with a MIT License.
 
-##Credits
+## Credits
 - Fabrizio Mele ([@barberopodcast](https://twitter.com/@barberopodcast))
