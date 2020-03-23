@@ -1,5 +1,5 @@
 # Iklwa 
-Iklwa (*/îːkxwá/*) is a React web app made to allow podcasters to deploy their custom app, with an audio player,
+Iklwa (/îːkxwá/) is a React web app made to allow podcasters to deploy their custom app, with an audio player,
 directly from the RSS feed, with little or no developer skills required. 
 
 Also, *iklwa* is the zulu name of the *[assegai](https://en.wikipedia.org/wiki/Assegai)*, a pole weapon. 
