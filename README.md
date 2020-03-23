@@ -16,7 +16,7 @@ The name comes from the sound that was heard when withdrawn from the enemy's bod
 
 ## Build and run
 
-This is a standard `create-react-app` project, so clone the repo, `npm run start` to set up a
+This is a standard `create-react-app` project, so clone the repo, run `npm install` to install all the dependencies, then `npm run start` to set up a
 development server or `npm run build` to build for production. 
 
 ## License
