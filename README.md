@@ -9,8 +9,8 @@ The name comes from the sound that was heard when withdrawn from the enemy's bod
 
 ## (Wanted) features
 - Audio player
-- PWA optimized
-- Fetch podcast info and episodes from RSS feed
+- About page populated from podcast title, description, author, email, etc.
+- Fetch podcast info and episodes from RSS feed.
 - Search and filter episodes by date, description, title, tags, etc.
 - Announcement section from a custom tag in the podcast description
 
